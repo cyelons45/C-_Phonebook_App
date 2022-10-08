@@ -1,0 +1,10 @@
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\phone_book_app\phone_book_app\bin\Debug\phone_book_app.exe.config
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\phone_book_app\phone_book_app\bin\Debug\phone_book_app.exe
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\phone_book_app\phone_book_app\bin\Debug\phone_book_app.pdb
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\phone_book_app\phone_book_app\obj\Debug\phone_book_app.csproj.AssemblyReference.cache
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\phone_book_app\phone_book_app\obj\Debug\phone_book_app.Form1.resources
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\phone_book_app\phone_book_app\obj\Debug\phone_book_app.Properties.Resources.resources
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\phone_book_app\phone_book_app\obj\Debug\phone_book_app.csproj.GenerateResource.cache
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\phone_book_app\phone_book_app\obj\Debug\phone_book_app.csproj.CoreCompileInputs.cache
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\phone_book_app\phone_book_app\obj\Debug\phone_book_app.exe
+C:\Users\nyarkosn\Desktop\ICONS\PROJECTS\phone_book_app\phone_book_app\obj\Debug\phone_book_app.pdb
